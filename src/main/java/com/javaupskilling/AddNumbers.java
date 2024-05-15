@@ -13,6 +13,5 @@ public static class Add{
     int sum=addNumbers.addition(30,17);
     System.out.println(sum);
 
-
     }
 }
