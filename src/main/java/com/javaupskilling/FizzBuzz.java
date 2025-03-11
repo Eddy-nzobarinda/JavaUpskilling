@@ -9,6 +9,7 @@ public class FizzBuzz {
         for (int i=1, fizz=0, buzz=0; i<=n; i++){
             fizz++;
             buzz++;
+
             if(fizz == 3 && buzz ==5){
                 fizz = 0;
                 buzz = 0;
